@@ -1,0 +1,240 @@
+[
+  {
+    "name": "about-us",
+    "path": "/about-us",
+    "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/about-us.vue",
+    "chunkName": "pages/about-us"
+  },
+  {
+    "name": "contact-us",
+    "path": "/contact-us",
+    "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/contact-us.vue",
+    "chunkName": "pages/contact-us"
+  },
+  {
+    "path": "/home",
+    "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/home.vue",
+    "chunkName": "pages/home",
+    "children": [
+      {
+        "name": "home",
+        "path": "",
+        "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/home/index.vue",
+        "chunkName": "pages/home/index"
+      },
+      {
+        "name": "home-artikel",
+        "path": "artikel",
+        "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/home/artikel/index.vue",
+        "chunkName": "pages/home/artikel/index"
+      },
+      {
+        "name": "home-catalog",
+        "path": "catalog",
+        "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/home/catalog/index.vue",
+        "chunkName": "pages/home/catalog/index"
+      },
+      {
+        "name": "home-events",
+        "path": "events",
+        "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/home/events.vue",
+        "chunkName": "pages/home/events"
+      },
+      {
+        "name": "home-faq",
+        "path": "faq",
+        "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/home/faq.vue",
+        "chunkName": "pages/home/faq"
+      },
+      {
+        "name": "home-inquiries",
+        "path": "inquiries",
+        "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/home/inquiries.vue",
+        "chunkName": "pages/home/inquiries"
+      },
+      {
+        "name": "home-material-inquiry",
+        "path": "material-inquiry",
+        "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/home/material-inquiry/index.vue",
+        "chunkName": "pages/home/material-inquiry/index"
+      },
+      {
+        "name": "home-news",
+        "path": "news",
+        "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/home/news.vue",
+        "chunkName": "pages/home/news"
+      },
+      {
+        "name": "home-partnerships",
+        "path": "partnerships",
+        "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/home/partnerships.vue",
+        "chunkName": "pages/home/partnerships"
+      },
+      {
+        "name": "home-profile",
+        "path": "profile",
+        "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/home/profile.vue",
+        "chunkName": "pages/home/profile"
+      },
+      {
+        "name": "home-profile-old",
+        "path": "profile-old",
+        "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/home/profile-old.vue",
+        "chunkName": "pages/home/profile-old"
+      },
+      {
+        "name": "home-showroom",
+        "path": "showroom",
+        "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/home/showroom.vue",
+        "chunkName": "pages/home/showroom"
+      },
+      {
+        "name": "home-verify",
+        "path": "verify",
+        "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/home/verify.vue",
+        "chunkName": "pages/home/verify"
+      },
+      {
+        "name": "home-wishlist",
+        "path": "wishlist",
+        "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/home/wishlist.vue",
+        "chunkName": "pages/home/wishlist"
+      },
+      {
+        "name": "home-material-inquiry-principal",
+        "path": "material-inquiry/principal",
+        "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/home/material-inquiry/principal.vue",
+        "chunkName": "pages/home/material-inquiry/principal"
+      },
+      {
+        "name": "home-artikel-id",
+        "path": "artikel/:id",
+        "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/home/artikel/_id.vue",
+        "chunkName": "pages/home/artikel/_id"
+      },
+      {
+        "name": "home-event-id",
+        "path": "event/:id?",
+        "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/home/event/_id.vue",
+        "chunkName": "pages/home/event/_id"
+      },
+      {
+        "name": "home-partnership-id",
+        "path": "partnership/:id?",
+        "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/home/partnership/_id.vue",
+        "chunkName": "pages/home/partnership/_id"
+      },
+      {
+        "name": "home-products-details",
+        "path": ":products/details",
+        "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/home/_products/details.vue",
+        "chunkName": "pages/home/_products/details",
+        "children": [
+          {
+            "name": "home-products-details-edit-id",
+            "path": "edit/:id?",
+            "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/home/_products/details/edit/_id.vue",
+            "chunkName": "pages/home/_products/details/edit/_id"
+          },
+          {
+            "name": "home-products-details-id",
+            "path": ":id?",
+            "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/home/_products/details/_id.vue",
+            "chunkName": "pages/home/_products/details/_id"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/login.vue",
+    "chunkName": "pages/login"
+  },
+  {
+    "name": "maintenance",
+    "path": "/maintenance",
+    "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/maintenance.vue",
+    "chunkName": "pages/maintenance"
+  },
+  {
+    "name": "quickregister",
+    "path": "/quickregister",
+    "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/quickregister.vue",
+    "chunkName": "pages/quickregister"
+  },
+  {
+    "name": "register",
+    "path": "/register",
+    "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/register.vue",
+    "chunkName": "pages/register"
+  },
+  {
+    "path": "/",
+    "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/index.vue",
+    "chunkName": "pages/index",
+    "children": [
+      {
+        "name": "index",
+        "path": "",
+        "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/index/index.vue",
+        "chunkName": "pages/index/index"
+      },
+      {
+        "name": "index-events",
+        "path": "events",
+        "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/index/events.vue",
+        "chunkName": "pages/index/events"
+      },
+      {
+        "name": "index-news",
+        "path": "news",
+        "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/index/news.vue",
+        "chunkName": "pages/index/news"
+      },
+      {
+        "name": "index-partnerships",
+        "path": "partnerships",
+        "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/index/partnerships.vue",
+        "chunkName": "pages/index/partnerships"
+      },
+      {
+        "name": "index-pricing",
+        "path": "pricing",
+        "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/index/pricing.vue",
+        "chunkName": "pages/index/pricing"
+      },
+      {
+        "name": "index-showroom",
+        "path": "showroom",
+        "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/index/showroom.vue",
+        "chunkName": "pages/index/showroom"
+      },
+      {
+        "name": "index-artikel-id",
+        "path": "artikel/:id?",
+        "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/index/artikel/_id.vue",
+        "chunkName": "pages/index/artikel/_id"
+      },
+      {
+        "name": "index-event-id",
+        "path": "event/:id?",
+        "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/index/event/_id.vue",
+        "chunkName": "pages/index/event/_id"
+      },
+      {
+        "name": "index-partnership-id",
+        "path": "partnership/:id?",
+        "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/index/partnership/_id.vue",
+        "chunkName": "pages/index/partnership/_id"
+      },
+      {
+        "name": "index-product-id",
+        "path": "product/:id?",
+        "component": "/Users/mahmudyusuf17/Documents/Freelance/mp/pages/index/product/_id.vue",
+        "chunkName": "pages/index/product/_id"
+      }
+    ]
+  }
+]

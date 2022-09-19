@@ -1,0 +1,28 @@
+{
+  "name": "company-profile",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.12.0",
+    "@nuxtjs/markdownit": "^2.0.0",
+    "bootstrap": "^4.5.0",
+    "bootstrap-vue": "^2.15.0",
+    "cookie-universal-nuxt": "^2.1.5",
+    "markdown-it": "^12.2.0",
+    "nuxt": "^2.15.8",
+    "sass": "^1.43.3",
+    "vue-gtag": "^1.16.1",
+    "vue-qrcode-reader": "^3.0.6"
+  },
+  "devDependencies": {
+    "@nuxt/components": "^2.2.1",
+    "node-sass": "^6.0.1",
+    "sass-loader": "^10.2.0"
+  }
+}

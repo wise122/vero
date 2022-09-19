@@ -1,0 +1,53 @@
+{
+  "ArtikelThumbnail": {
+    "description": "Auto imported from components/ArtikelThumbnail.vue"
+  },
+  "HomeFooter": {
+    "description": "Auto imported from components/HomeFooter.vue"
+  },
+  "MyProducts": {
+    "description": "Auto imported from components/MyProducts.vue"
+  },
+  "NavBarTop": {
+    "description": "Auto imported from components/NavBarTop.vue"
+  },
+  "ProductDetail": {
+    "description": "Auto imported from components/ProductDetail.vue"
+  },
+  "ProductForm": {
+    "description": "Auto imported from components/ProductForm.vue"
+  },
+  "ProductThumbnail": {
+    "description": "Auto imported from components/ProductThumbnail.vue"
+  },
+  "ShowroomCard": {
+    "description": "Auto imported from components/ShowroomCard.vue"
+  },
+  "AuthLoginModal": {
+    "description": "Auto imported from components/auth/LoginModal.vue"
+  },
+  "CarouselHomepageCarousel": {
+    "description": "Auto imported from components/carousel/homepage-carousel.vue"
+  },
+  "Event": {
+    "description": "Auto imported from components/event/Event.vue"
+  },
+  "MenuItem": {
+    "description": "Auto imported from components/menu/MenuItem.vue"
+  },
+  "NewsArticleCard": {
+    "description": "Auto imported from components/news/ArticleCard.vue"
+  },
+  "NewsSection": {
+    "description": "Auto imported from components/news/NewsSection.vue"
+  },
+  "NewsSidebarCard": {
+    "description": "Auto imported from components/news/NewsSidebarCard.vue"
+  },
+  "Principal": {
+    "description": "Auto imported from components/principal/Principal.vue"
+  },
+  "Showroom": {
+    "description": "Auto imported from components/showroom/Showroom.vue"
+  }
+}
